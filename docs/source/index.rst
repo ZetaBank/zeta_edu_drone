@@ -57,5 +57,5 @@ In Education Provided by ZetaBank:
     :caption: Zeta Drone
     :hidden:
 
-    courses/1.drone_structures/1.robot_hardware_spec
+    courses/1.drone_structures/1.drone_form
 
