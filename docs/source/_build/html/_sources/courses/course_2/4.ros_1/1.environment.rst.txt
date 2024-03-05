@@ -1,8 +1,0 @@
-ROS Development Environment
-================
-
-Ubuntu 18.04
-^^^^^^^^^^^^^^^^
-
-ROS Melodic
-^^^^^^^^^^^^^^^^
